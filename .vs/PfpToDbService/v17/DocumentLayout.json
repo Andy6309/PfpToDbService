@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\bac-pfp-to-ncxdb\\PfpToDbService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{485655E1-DF97-4519-939D-C9989C0C1F67}|PfpToDbService.csproj|c:\\users\\andy.mize\\documents\\visual studio 2022\\bac-pfp-to-ncxdb\\pfptodbservice\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485655E1-DF97-4519-939D-C9989C0C1F67}|PfpToDbService.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485655E1-DF97-4519-939D-C9989C0C1F67}|PfpToDbService.csproj|c:\\users\\andy.mize\\documents\\visual studio 2022\\bac-pfp-to-ncxdb\\pfptodbservice\\services\\filemonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485655E1-DF97-4519-939D-C9989C0C1F67}|PfpToDbService.csproj|solutionrelative:services\\filemonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485655E1-DF97-4519-939D-C9989C0C1F67}|PfpToDbService.csproj|c:\\users\\andy.mize\\documents\\visual studio 2022\\bac-pfp-to-ncxdb\\pfptodbservice\\services\\customsingleeventfilewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485655E1-DF97-4519-939D-C9989C0C1F67}|PfpToDbService.csproj|solutionrelative:services\\customsingleeventfilewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileMonitorService.cs",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\bac-pfp-to-ncxdb\\PfpToDbService\\Services\\FileMonitorService.cs",
+              "RelativeDocumentMoniker": "Services\\FileMonitorService.cs",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\bac-pfp-to-ncxdb\\PfpToDbService\\Services\\FileMonitorService.cs",
+              "RelativeToolTip": "Services\\FileMonitorService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:57:15.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\bac-pfp-to-ncxdb\\PfpToDbService\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\bac-pfp-to-ncxdb\\PfpToDbService\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:48:37.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomSingleEventFileWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\bac-pfp-to-ncxdb\\PfpToDbService\\Services\\CustomSingleEventFileWatcher.cs",
+              "RelativeDocumentMoniker": "Services\\CustomSingleEventFileWatcher.cs",
+              "ToolTip": "C:\\Users\\andy.mize\\Documents\\Visual Studio 2022\\bac-pfp-to-ncxdb\\PfpToDbService\\Services\\CustomSingleEventFileWatcher.cs",
+              "RelativeToolTip": "Services\\CustomSingleEventFileWatcher.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAA4wLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:43:40.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

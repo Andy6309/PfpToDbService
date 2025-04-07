@@ -1,0 +1,17 @@
+CREATE TABLE PfpData (
+    FilePath NVARCHAR(255) NOT NULL PRIMARY KEY,
+    FileName NVARCHAR(255) NOT NULL,
+    FileHash NVARCHAR(255) NOT NULL,
+    FileLastModified DATETIME NOT NULL,
+    LastUpdatedTimestamp DATETIME NOT NULL,
+    PartName NVARCHAR(255) NOT NULL,
+    BendingMachineName NVARCHAR(255) NOT NULL,
+    UBC BIT NOT NULL,
+    ASP BIT NOT NULL,
+    AUT BIT NOT NULL,
+    Tested BIT NOT NULL,
+    PanelBendable BIT NOT NULL
+);
+
+ALTER TABLE PfpData
+ADD PanelBendable BIT NOT NULL DEFAULT 0;

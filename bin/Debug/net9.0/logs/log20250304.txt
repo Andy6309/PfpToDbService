@@ -1,0 +1,392 @@
+2025-03-04 09:39:29.944 -05:00 [INF] PFP to Database Service is starting...
+2025-03-04 09:39:29.980 -05:00 [INF] Starting file monitoring...
+2025-03-04 09:39:29.983 -05:00 [DBG] Entry - ProcessExistingPfpFiles()
+2025-03-04 09:39:29.986 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\13551.pfp) 
+2025-03-04 09:39:30.068 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:30.366 -05:00 [INF] Monitoring folders for .pfp files. Press ENTER to stop.
+2025-03-04 09:39:30.731 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:39:31.127 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.171 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:39:31.188 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:39:31.191 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-1.pfp) 
+2025-03-04 09:39:31.193 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.196 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-1.pfp
+2025-03-04 09:39:31.201 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.203 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-1.pfp
+2025-03-04 09:39:31.207 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-1.pfp
+2025-03-04 09:39:31.208 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-2.pfp) 
+2025-03-04 09:39:31.210 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.213 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-2.pfp
+2025-03-04 09:39:31.215 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.216 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-2.pfp
+2025-03-04 09:39:31.218 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-2.pfp
+2025-03-04 09:39:31.219 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-1.pfp) 
+2025-03-04 09:39:31.221 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.223 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-1.pfp
+2025-03-04 09:39:31.224 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.226 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-1.pfp
+2025-03-04 09:39:31.228 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-1.pfp
+2025-03-04 09:39:31.230 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-2.pfp) 
+2025-03-04 09:39:31.233 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.279 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-2.pfp
+2025-03-04 09:39:31.282 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.284 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-2.pfp
+2025-03-04 09:39:31.286 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-2.pfp
+2025-03-04 09:39:31.288 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-3.pfp) 
+2025-03-04 09:39:31.290 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.293 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-3.pfp
+2025-03-04 09:39:31.295 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.298 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-3.pfp
+2025-03-04 09:39:31.302 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-3.pfp
+2025-03-04 09:39:31.304 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2.pfp) 
+2025-03-04 09:39:31.307 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.326 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-2.pfp
+2025-03-04 09:39:31.356 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.385 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-2.pfp
+2025-03-04 09:39:31.406 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-2.pfp
+2025-03-04 09:39:31.414 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-1.pfp) 
+2025-03-04 09:39:31.418 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.421 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-1.pfp
+2025-03-04 09:39:31.423 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.424 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-1.pfp
+2025-03-04 09:39:31.426 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-1.pfp
+2025-03-04 09:39:31.428 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-2.pfp) 
+2025-03-04 09:39:31.430 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.432 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-2.pfp
+2025-03-04 09:39:31.434 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.436 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-2.pfp
+2025-03-04 09:39:31.439 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-2.pfp
+2025-03-04 09:39:31.440 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-3.pfp) 
+2025-03-04 09:39:31.442 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.444 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-3.pfp
+2025-03-04 09:39:31.446 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.447 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-3.pfp
+2025-03-04 09:39:31.449 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-3.pfp
+2025-03-04 09:39:31.450 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-4.pfp) 
+2025-03-04 09:39:31.453 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.455 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-4.pfp
+2025-03-04 09:39:31.456 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.458 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-4.pfp
+2025-03-04 09:39:31.459 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-4.pfp
+2025-03-04 09:39:31.460 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3.pfp) 
+2025-03-04 09:39:31.463 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.465 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-3.pfp
+2025-03-04 09:39:31.471 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.472 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-3.pfp
+2025-03-04 09:39:31.474 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-3.pfp
+2025-03-04 09:39:31.475 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-1.pfp) 
+2025-03-04 09:39:31.478 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.480 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-1.pfp
+2025-03-04 09:39:31.483 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.486 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-1.pfp
+2025-03-04 09:39:31.490 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-1.pfp
+2025-03-04 09:39:31.492 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-2.pfp) 
+2025-03-04 09:39:31.496 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.499 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-2.pfp
+2025-03-04 09:39:31.501 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.503 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-2.pfp
+2025-03-04 09:39:31.521 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-2.pfp
+2025-03-04 09:39:31.556 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-3.pfp) 
+2025-03-04 09:39:31.599 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.719 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-3.pfp
+2025-03-04 09:39:31.720 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.721 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-3.pfp
+2025-03-04 09:39:31.722 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-3.pfp
+2025-03-04 09:39:31.723 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-4.pfp) 
+2025-03-04 09:39:31.725 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.727 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-4.pfp
+2025-03-04 09:39:31.729 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.731 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-4.pfp
+2025-03-04 09:39:31.739 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-4.pfp
+2025-03-04 09:39:31.740 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-5.pfp) 
+2025-03-04 09:39:31.743 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.785 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-5.pfp
+2025-03-04 09:39:31.837 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.841 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-5.pfp
+2025-03-04 09:39:31.843 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-5.pfp
+2025-03-04 09:39:31.844 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-6.pfp) 
+2025-03-04 09:39:31.845 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.846 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-6.pfp
+2025-03-04 09:39:31.848 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.850 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-6.pfp
+2025-03-04 09:39:31.851 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-6.pfp
+2025-03-04 09:39:31.852 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5.pfp) 
+2025-03-04 09:39:31.855 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.865 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\2127027-01-ACP-5.pfp
+2025-03-04 09:39:31.883 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:31.887 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\2127027-01-ACP-5.pfp
+2025-03-04 09:39:31.890 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\2127027-01-ACP-5.pfp
+2025-03-04 09:39:31.892 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\ACP_1.pfp) 
+2025-03-04 09:39:31.894 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:31.918 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\ACP_1.pfp
+2025-03-04 09:39:32.023 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.085 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\ACP_1.pfp
+2025-03-04 09:39:32.087 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\ACP_1.pfp
+2025-03-04 09:39:32.087 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\C111765-10-P1.PorteToleInt1.pfp) 
+2025-03-04 09:39:32.089 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:32.092 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\C111765-10-P1.PorteToleInt1.pfp
+2025-03-04 09:39:32.093 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.095 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\C111765-10-P1.PorteToleInt1.pfp
+2025-03-04 09:39:32.096 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\C111765-10-P1.PorteToleInt1.pfp
+2025-03-04 09:39:32.097 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\New_ACP.pfp) 
+2025-03-04 09:39:32.098 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:32.100 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\New_ACP.pfp
+2025-03-04 09:39:32.103 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.105 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\New_ACP.pfp
+2025-03-04 09:39:32.107 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\New_ACP.pfp
+2025-03-04 09:39:32.109 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\New_ACP_SCRIBE.pfp) 
+2025-03-04 09:39:32.112 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:32.115 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\New_ACP_SCRIBE.pfp
+2025-03-04 09:39:32.119 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.120 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\New_ACP_SCRIBE.pfp
+2025-03-04 09:39:32.121 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\New_ACP_SCRIBE.pfp
+2025-03-04 09:39:32.122 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\3866859-00.pfp) 
+2025-03-04 09:39:32.124 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:32.125 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpErrors\3866859-00.pfp
+2025-03-04 09:39:32.127 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.128 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpErrors\3866859-00.pfp
+2025-03-04 09:39:32.130 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpErrors\3866859-00.pfp
+2025-03-04 09:39:32.132 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\AHU02XM5.pfp) 
+2025-03-04 09:39:32.133 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:32.135 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpErrors\AHU02XM5.pfp
+2025-03-04 09:39:32.136 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.137 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpErrors\AHU02XM5.pfp
+2025-03-04 09:39:32.139 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpErrors\AHU02XM5.pfp
+2025-03-04 09:39:32.140 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\CFD0504-0254-R01.pfp) 
+2025-03-04 09:39:32.142 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:32.144 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpErrors\CFD0504-0254-R01.pfp
+2025-03-04 09:39:32.146 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.147 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpErrors\CFD0504-0254-R01.pfp
+2025-03-04 09:39:32.148 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpErrors\CFD0504-0254-R01.pfp
+2025-03-04 09:39:32.149 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\KM00043028-01_REV_A.pfp) 
+2025-03-04 09:39:32.151 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:32.152 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpErrors\KM00043028-01_REV_A.pfp
+2025-03-04 09:39:32.153 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.154 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpErrors\KM00043028-01_REV_A.pfp
+2025-03-04 09:39:32.155 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpErrors\KM00043028-01_REV_A.pfp
+2025-03-04 09:39:32.155 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\KM00043028-02_REV_A.pfp) 
+2025-03-04 09:39:32.157 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:39:32.158 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpErrors\KM00043028-02_REV_A.pfp
+2025-03-04 09:39:32.159 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:39:32.160 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpErrors\KM00043028-02_REV_A.pfp
+2025-03-04 09:39:32.162 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpErrors\KM00043028-02_REV_A.pfp
+2025-03-04 09:39:32.163 -05:00 [DBG] Exit - ProcessExistingPfpFiles()
+2025-03-04 09:39:32.165 -05:00 [INF] Started monitoring folder: C:\PfpFiles\PfpOk
+2025-03-04 09:39:32.166 -05:00 [INF] Started monitoring folder: C:\PfpFiles\PfpErrors
+2025-03-04 09:40:14.690 -05:00 [INF] File deleted: C:\PfpFiles\PfpErrors\3866859-00.pfp
+2025-03-04 09:40:14.695 -05:00 [DBG] Entry - DeleteFileRecordAsync C:\PfpFiles\PfpErrors\3866859-00.pfp
+2025-03-04 09:40:14.722 -05:00 [INF] Successfully deleted record for file: C:\PfpFiles\PfpErrors\3866859-00.pfp
+2025-03-04 09:40:14.725 -05:00 [INF] Removed file record from database: C:\PfpFiles\PfpErrors\3866859-00.pfp
+2025-03-04 09:41:08.230 -05:00 [INF] File ready for processing: C:\PfpFiles\PfpOk\3866859-00.pfp
+2025-03-04 09:41:08.231 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\3866859-00.pfp) 
+2025-03-04 09:41:08.234 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:41:08.268 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\3866859-00.pfp
+2025-03-04 09:41:08.287 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:41:08.350 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\3866859-00.pfp
+2025-03-04 09:41:08.354 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\3866859-00.pfp
+2025-03-04 09:43:55.539 -05:00 [INF] PFP to Database Service is starting...
+2025-03-04 09:43:55.562 -05:00 [INF] Starting file monitoring...
+2025-03-04 09:43:55.564 -05:00 [DBG] Entry - ProcessExistingPfpFiles()
+2025-03-04 09:43:55.566 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\13551.pfp) 
+2025-03-04 09:43:55.608 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:55.869 -05:00 [INF] Monitoring folders for .pfp files. Press ENTER to stop.
+2025-03-04 09:43:56.041 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:43:56.044 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-1.pfp) 
+2025-03-04 09:43:56.045 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.048 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-1.pfp
+2025-03-04 09:43:56.049 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-2.pfp) 
+2025-03-04 09:43:56.050 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.052 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-2.pfp
+2025-03-04 09:43:56.053 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-1.pfp) 
+2025-03-04 09:43:56.054 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.055 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-1.pfp
+2025-03-04 09:43:56.056 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-2.pfp) 
+2025-03-04 09:43:56.057 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.058 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-2.pfp
+2025-03-04 09:43:56.059 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-3.pfp) 
+2025-03-04 09:43:56.060 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.061 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-3.pfp
+2025-03-04 09:43:56.062 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2.pfp) 
+2025-03-04 09:43:56.063 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.064 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-2.pfp
+2025-03-04 09:43:56.065 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-1.pfp) 
+2025-03-04 09:43:56.066 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.067 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-1.pfp
+2025-03-04 09:43:56.068 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-2.pfp) 
+2025-03-04 09:43:56.069 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.071 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-2.pfp
+2025-03-04 09:43:56.072 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-3.pfp) 
+2025-03-04 09:43:56.073 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.074 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-3.pfp
+2025-03-04 09:43:56.075 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-4.pfp) 
+2025-03-04 09:43:56.076 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.078 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-4.pfp
+2025-03-04 09:43:56.079 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3.pfp) 
+2025-03-04 09:43:56.080 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.081 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3.pfp
+2025-03-04 09:43:56.083 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-1.pfp) 
+2025-03-04 09:43:56.084 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.085 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-1.pfp
+2025-03-04 09:43:56.087 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-2.pfp) 
+2025-03-04 09:43:56.088 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.089 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-2.pfp
+2025-03-04 09:43:56.091 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-3.pfp) 
+2025-03-04 09:43:56.092 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.094 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-3.pfp
+2025-03-04 09:43:56.095 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-4.pfp) 
+2025-03-04 09:43:56.096 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.098 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-4.pfp
+2025-03-04 09:43:56.099 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-5.pfp) 
+2025-03-04 09:43:56.100 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.101 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-5.pfp
+2025-03-04 09:43:56.102 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-6.pfp) 
+2025-03-04 09:43:56.103 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.104 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-6.pfp
+2025-03-04 09:43:56.106 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5.pfp) 
+2025-03-04 09:43:56.107 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.109 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5.pfp
+2025-03-04 09:43:56.110 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\3866859-00.pfp) 
+2025-03-04 09:43:56.111 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.113 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\3866859-00.pfp
+2025-03-04 09:43:56.114 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\ACP_1.pfp) 
+2025-03-04 09:43:56.116 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.118 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\ACP_1.pfp
+2025-03-04 09:43:56.119 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\C111765-10-P1.PorteToleInt1.pfp) 
+2025-03-04 09:43:56.120 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.122 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\C111765-10-P1.PorteToleInt1.pfp
+2025-03-04 09:43:56.123 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\New_ACP.pfp) 
+2025-03-04 09:43:56.124 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.126 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\New_ACP.pfp
+2025-03-04 09:43:56.127 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\New_ACP_SCRIBE.pfp) 
+2025-03-04 09:43:56.128 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.129 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\New_ACP_SCRIBE.pfp
+2025-03-04 09:43:56.130 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\AHU02XM5.pfp) 
+2025-03-04 09:43:56.132 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.133 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpErrors\AHU02XM5.pfp
+2025-03-04 09:43:56.135 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\CFD0504-0254-R01.pfp) 
+2025-03-04 09:43:56.137 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.139 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpErrors\CFD0504-0254-R01.pfp
+2025-03-04 09:43:56.141 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\KM00043028-01_REV_A.pfp) 
+2025-03-04 09:43:56.142 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.144 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpErrors\KM00043028-01_REV_A.pfp
+2025-03-04 09:43:56.146 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\KM00043028-02_REV_A.pfp) 
+2025-03-04 09:43:56.148 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:43:56.150 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpErrors\KM00043028-02_REV_A.pfp
+2025-03-04 09:43:56.151 -05:00 [DBG] Exit - ProcessExistingPfpFiles()
+2025-03-04 09:43:56.153 -05:00 [INF] Started monitoring folder: C:\PfpFiles\PfpOk
+2025-03-04 09:43:56.154 -05:00 [INF] Started monitoring folder: C:\PfpFiles\PfpErrors
+2025-03-04 09:43:58.977 -05:00 [INF] Stopping file monitoring...
+2025-03-04 09:43:58.980 -05:00 [INF] PFP to Database Service stopped.
+2025-03-04 09:55:28.577 -05:00 [INF] PFP to Database Service is starting...
+2025-03-04 09:55:28.613 -05:00 [INF] Starting file monitoring...
+2025-03-04 09:55:28.615 -05:00 [DBG] Entry - ProcessExistingPfpFiles()
+2025-03-04 09:55:28.616 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\13551.pfp) 
+2025-03-04 09:55:28.653 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.802 -05:00 [INF] Monitoring folders for .pfp files. Press ENTER to stop.
+2025-03-04 09:55:28.920 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:55:28.921 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-1.pfp) 
+2025-03-04 09:55:28.922 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.924 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-1.pfp
+2025-03-04 09:55:28.925 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-2.pfp) 
+2025-03-04 09:55:28.926 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.927 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-12-tmp-2.pfp
+2025-03-04 09:55:28.927 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-1.pfp) 
+2025-03-04 09:55:28.928 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.928 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-1.pfp
+2025-03-04 09:55:28.929 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-2.pfp) 
+2025-03-04 09:55:28.930 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.931 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-2.pfp
+2025-03-04 09:55:28.931 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-3.pfp) 
+2025-03-04 09:55:28.932 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.933 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-2-tmp-3.pfp
+2025-03-04 09:55:28.933 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-2.pfp) 
+2025-03-04 09:55:28.934 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.935 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-2.pfp
+2025-03-04 09:55:28.935 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-1.pfp) 
+2025-03-04 09:55:28.936 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.936 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-1.pfp
+2025-03-04 09:55:28.937 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-2.pfp) 
+2025-03-04 09:55:28.937 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.938 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-2.pfp
+2025-03-04 09:55:28.939 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-3.pfp) 
+2025-03-04 09:55:28.939 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.940 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-3.pfp
+2025-03-04 09:55:28.941 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-4.pfp) 
+2025-03-04 09:55:28.941 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.942 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3-tmp-4.pfp
+2025-03-04 09:55:28.943 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-3.pfp) 
+2025-03-04 09:55:28.944 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.944 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-3.pfp
+2025-03-04 09:55:28.945 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-1.pfp) 
+2025-03-04 09:55:28.946 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.947 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-1.pfp
+2025-03-04 09:55:28.947 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-2.pfp) 
+2025-03-04 09:55:28.948 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.949 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-2.pfp
+2025-03-04 09:55:28.949 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-3.pfp) 
+2025-03-04 09:55:28.950 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.951 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-3.pfp
+2025-03-04 09:55:28.952 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-4.pfp) 
+2025-03-04 09:55:28.952 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.953 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-4.pfp
+2025-03-04 09:55:28.953 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-5.pfp) 
+2025-03-04 09:55:28.954 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.955 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-5.pfp
+2025-03-04 09:55:28.956 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-6.pfp) 
+2025-03-04 09:55:28.956 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.957 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5-tmp-6.pfp
+2025-03-04 09:55:28.958 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\2127027-01-ACP-5.pfp) 
+2025-03-04 09:55:28.959 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.960 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\2127027-01-ACP-5.pfp
+2025-03-04 09:55:28.960 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\3866859-00.pfp) 
+2025-03-04 09:55:28.961 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.962 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\3866859-00.pfp
+2025-03-04 09:55:28.962 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\ACP_1.pfp) 
+2025-03-04 09:55:28.963 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.964 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\ACP_1.pfp
+2025-03-04 09:55:28.965 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\C111765-10-P1.PorteToleInt1.pfp) 
+2025-03-04 09:55:28.966 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.967 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\C111765-10-P1.PorteToleInt1.pfp
+2025-03-04 09:55:28.967 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\New_ACP.pfp) 
+2025-03-04 09:55:28.968 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.969 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\New_ACP.pfp
+2025-03-04 09:55:28.970 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\New_ACP_SCRIBE.pfp) 
+2025-03-04 09:55:28.970 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.971 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpOk\New_ACP_SCRIBE.pfp
+2025-03-04 09:55:28.972 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\AHU02XM5.pfp) 
+2025-03-04 09:55:28.972 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.973 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpErrors\AHU02XM5.pfp
+2025-03-04 09:55:28.974 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\CFD0504-0254-R01.pfp) 
+2025-03-04 09:55:28.974 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.975 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpErrors\CFD0504-0254-R01.pfp
+2025-03-04 09:55:28.975 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\KM00043028-01_REV_A.pfp) 
+2025-03-04 09:55:28.976 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.977 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpErrors\KM00043028-01_REV_A.pfp
+2025-03-04 09:55:28.977 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\KM00043028-02_REV_A.pfp) 
+2025-03-04 09:55:28.978 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:55:28.978 -05:00 [DBG] File is not modified. It already exists in the database: C:\PfpFiles\PfpErrors\KM00043028-02_REV_A.pfp
+2025-03-04 09:55:28.980 -05:00 [DBG] Exit - ProcessExistingPfpFiles()
+2025-03-04 09:55:28.981 -05:00 [INF] Started monitoring folder: C:\PfpFiles\PfpOk
+2025-03-04 09:55:28.982 -05:00 [INF] Started monitoring folder: C:\PfpFiles\PfpErrors
+2025-03-04 09:55:53.086 -05:00 [INF] File deleted: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:55:53.088 -05:00 [DBG] Entry - DeleteFileRecordAsync C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:55:53.116 -05:00 [INF] Successfully deleted record for file: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:55:53.117 -05:00 [INF] Removed file record from database: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:56:04.605 -05:00 [INF] File ready for processing: C:\PfpFiles\PfpErrors\13551.pfp
+2025-03-04 09:56:04.606 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpErrors\13551.pfp) 
+2025-03-04 09:56:04.608 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:56:04.622 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpErrors\13551.pfp
+2025-03-04 09:56:05.154 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:56:05.161 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpErrors\13551.pfp
+2025-03-04 09:56:05.175 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpErrors\13551.pfp
+2025-03-04 09:56:22.688 -05:00 [INF] File deleted: C:\PfpFiles\PfpErrors\13551.pfp
+2025-03-04 09:56:22.694 -05:00 [DBG] Entry - DeleteFileRecordAsync C:\PfpFiles\PfpErrors\13551.pfp
+2025-03-04 09:56:22.697 -05:00 [INF] Successfully deleted record for file: C:\PfpFiles\PfpErrors\13551.pfp
+2025-03-04 09:56:22.698 -05:00 [INF] Removed file record from database: C:\PfpFiles\PfpErrors\13551.pfp
+2025-03-04 09:58:21.462 -05:00 [INF] File ready for processing: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:58:21.467 -05:00 [DBG] Entry - ProcessPfpFile(filePath: C:\PfpFiles\PfpOk\13551.pfp) 
+2025-03-04 09:58:21.472 -05:00 [DBG] Entry - IsFileModifiedOrNewAsync
+2025-03-04 09:58:21.513 -05:00 [DBG] PfpFileParser - Parsing file: C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:58:21.530 -05:00 [DBG] Entry - UpsertPfpData
+2025-03-04 09:58:21.533 -05:00 [DBG] Entry - InsertRecord C:\PfpFiles\PfpOk\13551.pfp
+2025-03-04 09:58:21.536 -05:00 [INF] Processed and upserted file: C:\PfpFiles\PfpOk\13551.pfp
